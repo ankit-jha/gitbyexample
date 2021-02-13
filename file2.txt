@@ -1,0 +1,13 @@
+<<<<<<< fbc7eda7715d2715aa3bc5f39f91eb07ea4b2c1d
+Changes done on master for rebase file2
+=======
+Changes done on branch3 for rebasing
+>>>>>>> Rebase changes 1
+Second file on branch 1 
+Changes done after deleting file4 on branch1
+changes done on branch1
+
+Changes done on master 1st commit
+
+Changes done on master 2nd commit
+Change in feature branch
