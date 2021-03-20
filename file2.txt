@@ -8,3 +8,5 @@ Changes done on master 2nd commit
 Change in feature branch
 
 Important change for issue11
+
+Changes directly made on origin
