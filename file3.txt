@@ -1,12 +1,6 @@
-<<<<<<< 8c9a182e869af3dd5f27a483a2c5d895be95d81d
-<<<<<<< fbc7eda7715d2715aa3bc5f39f91eb07ea4b2c1d
 Chnages done for rebase on master
-=======
-=======
 Second set of changes on branch3 for rebasing new commit
->>>>>>> Rebase changes 2
 Changes done on branch3 for rebasing
->>>>>>> Rebase changes 1
 Changes done on master
 Changes done in file3 on branch1
 
